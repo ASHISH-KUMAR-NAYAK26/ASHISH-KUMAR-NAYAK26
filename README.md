@@ -17,7 +17,7 @@ I am a Computer Science student at Bennett University focused on building intell
 **My Engineering Focus:**
 * **Full-Stack & AI Integration:** I design scalable backends, build component-driven UIs, and deploy machine learning models into production-ready SaaS applications.
 * **Core CS Fundamentals:** I actively apply principles from Operating Systems, Distributed Systems, and advanced mathematics to optimize performance and solve architectural challenges at scale. 
-* **Current Projects:** I am currently building platforms centered around multi-agent systems, predictive analytics, and AI-powered cloud infrastructure.
+* **Current Projects:** I am currently building platforms centered around multi-agent systems and predictive analytics.
 
 ---
 
