@@ -3,11 +3,10 @@
   <h3>B.Tech CSE Student | AI & Systems Enthusiast</h3>
   <p><i>"Translating core computer science theory into scalable, intelligent software."</i></p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-kumar-nayak-74b3a1320)
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/ASHISH-KUMAR-NAYAK26)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ashish.kumar.nayak2005@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-nayak-74b3a1320)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASHISH-KUMAR-NAYAK26)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.kumar.nayak2005@gmail.com)
 </div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -123,8 +122,7 @@ An end-to-end Machine Learning solution that predicts carbon emission categories
 
 ## 🏆 Hackathons & Leadership
 
-*   🥇 **Team Lead** – Smart India Hackathon (SIH) 2025
-*   🌟 **Finalist** – AI Summit 2025 Project Showcase *(AgriChain)*
-*   📜 **Certified** – IIT Kanpur AIML Certification
-*   🤖 **Participant** – Google × Kaggle AI Agents Program
-*   🛡️ **PR & Outreach** – Ciphers Club *(Cybersecurity)*
+* 🥇 **Team Lead** – Smart India Hackathon (SIH) 2025
+* 🌟 **Finalist** – AI Summit 2025 Project Showcase *(AgriChain)*
+* 🤖 **Participant** – Google × Kaggle AI Agents Program
+* 🛡️ **PR & Outreach** – Ciphers Club *(Cybersecurity)*
