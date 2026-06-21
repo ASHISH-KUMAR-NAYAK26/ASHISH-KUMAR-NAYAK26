@@ -51,8 +51,10 @@ Currently, I am building projects in AI, multi-agent systems, and predictive ana
 
 ## 🌟 Featured Projects
 
-### 🎬 [Otakuverse](https://github.com/Team-AlgoSphere-304/Otakuverse)
+### 🎬 Otakuverse
 A multi-agent entertainment recommendation platform that delivers personalized cross-media recommendations using mood, genre preferences, contextual memory, and user interaction history.
+
+[![Repository](https://img.shields.io/badge/View_Repository-121011?style=for-the-badge&logo=github)](https://github.com/Team-AlgoSphere-304/Otakuverse)
 
 **🏆 Highlights**
 * Multi-Agent AI Architecture
@@ -63,8 +65,10 @@ A multi-agent entertainment recommendation platform that delivers personalized c
 
 ---
 
-### 📚 [FocusBook](https://github.com/New-Aincrad/Focusbook)
+### 📚 FocusBook
 An AI-powered productivity intelligence platform that combines Computer Vision, NLP, and behavioral analytics to monitor focus, detect distractions, and improve productivity in real time.
+
+[![Repository](https://img.shields.io/badge/View_Repository-121011?style=for-the-badge&logo=github)](https://github.com/New-Aincrad/Focusbook)
 
 **🏆 Highlights**
 * 99% Drowsiness Detection Accuracy
@@ -75,8 +79,10 @@ An AI-powered productivity intelligence platform that combines Computer Vision, 
 
 ---
 
-### 🌾 [AgriChain](https://github.com/Team-Agriware/AgriChain)
+### 🌾 AgriChain
 An ML-powered blockchain agricultural marketplace that improves agricultural transparency through crop recommendation, yield prediction, demand forecasting, smart contracts, and escrow-backed transactions.
+
+[![Repository](https://img.shields.io/badge/View_Repository-121011?style=for-the-badge&logo=github)](https://github.com/Team-Agriware/AgriChain)
 
 **🏆 Highlights**
 * AI Summit 2025 Project Showcase Finalist
@@ -87,8 +93,10 @@ An ML-powered blockchain agricultural marketplace that improves agricultural tra
 
 ---
 
-### 🎓 [Academia-Ascend](https://github.com/Team-AlgoSphere-304/Academia-Ascend)
+### 🎓 Academia-Ascend
 A full-stack academic management platform designed to streamline attendance tracking, student achievements, events, and institutional administration.
+
+[![Repository](https://img.shields.io/badge/View_Repository-121011?style=for-the-badge&logo=github)](https://github.com/Team-AlgoSphere-304/Academia-Ascend)
 
 **🏆 Highlights**
 * Smart India Hackathon 2025 Project
@@ -99,8 +107,10 @@ A full-stack academic management platform designed to streamline attendance trac
 
 ---
 
-### 🌍 [Carbon Footprint Classification](https://github.com/ASHISH-KUMAR-NAYAK26/Carbon-footprint-tracker)
+### 🌍 Carbon Footprint Classification
 An end-to-end Machine Learning solution that predicts carbon emission categories using lifestyle and consumption patterns, enabling data-driven sustainability insights.
+
+[![Repository](https://img.shields.io/badge/View_Repository-121011?style=for-the-badge&logo=github)](https://github.com/ASHISH-KUMAR-NAYAK26/Carbon-footprint-tracker)
 
 **🏆 Highlights**
 * Random Forest Classification
