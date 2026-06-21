@@ -1,16 +1,123 @@
-## Hey, I'm Ashish Kumar Nayak👋
+<div align="center">
+  <h1>Ashish Kumar Nayak</h1>
+  <h3>B.Tech CSE Student | AI & Systems Enthusiast</h3>
+  <p><i>"Translating core computer science theory into scalable, intelligent software."</i></p>
+  
+  [![Status](https://img.shields.io/badge/Status-Seeking_Paid_Internships-success?style=for-the-badge)](#)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-kumar-nayak-74b3a1320)
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/ASHISH-KUMAR-NAYAK26)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ashish.kumar.nayak2005@gmail.com)
+</div>
 
-<!--
-**ASHISH-KUMAR-NAYAK26/ASHISH-KUMAR-NAYAK26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science student at Bennett University with a passion for building intelligent software systems that combine strong engineering foundations with real-world impact.
+
+My interests span Machine Learning, Computer Vision, Full-Stack Development, Cloud Technologies, and System Design. I enjoy working across the entire development lifecycle—from designing scalable backends and training machine learning models to integrating them into production-ready applications.
+
+Rather than focusing solely on frameworks, I actively strengthen my understanding of core Computer Science concepts including Data Structures & Algorithms, Operating Systems, Databases, and Distributed Systems. I enjoy solving challenging problems, optimizing system performance, and exploring how intelligent systems can be built at scale.
+
+Currently, I am building projects in AI, multi-agent systems, and predictive analytics while continuously expanding my knowledge of modern software engineering, scalable systems, and cloud technologies.
+
+---
+
+## ⚡ Core Competencies
+
+*   **Systems & Algorithms:** Operating Systems Theory, Multithreading, Process Scheduling, Advanced Applied Mathematics.
+*   **Artificial Intelligence:** Machine Learning, Computer Vision, Multi-Agent Systems, Predictive Analytics.
+*   **Full-Stack Development:** Component-Driven UI Design, Seamless API Integration, Relational & NoSQL Database Management.
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+
+---
+
+## 🌟 Featured Projects
+
+### 🎬 [Otakuverse](https://github.com/Team-AlgoSphere-304/Otakuverse)
+A multi-agent entertainment recommendation platform that delivers personalized cross-media recommendations using mood, genre preferences, contextual memory, and user interaction history.
+
+**🏆 Highlights**
+* Multi-Agent AI Architecture
+* Context Engineering & Memory Management
+* Personalized Cross-Media Recommendations
+
+**⚙️ Tech Stack:** Python • LangChain • LLMs • Vector Search • Multi-Agent Systems
+
+---
+
+### 📚 [FocusBook](https://github.com/New-Aincrad/Focusbook)
+An AI-powered productivity intelligence platform that combines Computer Vision, NLP, and behavioral analytics to monitor focus, detect distractions, and improve productivity in real time.
+
+**🏆 Highlights**
+* 99% Drowsiness Detection Accuracy
+* Gaze Tracking System (Loss: 0.03)
+* Real-Time Focus & Productivity Analytics
+
+**⚙️ Tech Stack:** Python • TensorFlow • OpenCV • Scikit-Learn • SQLite
+
+---
+
+### 🌾 [AgriChain](https://github.com/Team-Agriware/AgriChain)
+An ML-powered blockchain agricultural marketplace that improves agricultural transparency through crop recommendation, yield prediction, demand forecasting, smart contracts, and escrow-backed transactions.
+
+**🏆 Highlights**
+* AI Summit 2025 Project Showcase Finalist
+* Contributed to 8 separate AI/ML Models
+* Blockchain + Machine Learning Integration
+
+**⚙️ Tech Stack:** React • Node.js • Express.js • MongoDB • Python • Scikit-Learn • Solidity • Socket.IO • JWT
+
+---
+
+### 🎓 [Academia-Ascend](https://github.com/Team-AlgoSphere-304/Academia-Ascend)
+A full-stack academic management platform designed to streamline attendance tracking, student achievements, events, and institutional administration.
+
+**🏆 Highlights**
+* Smart India Hackathon 2025 Project
+* Acted as Team Lead
+* Full-Stack System Design & Database Architecture
+
+**⚙️ Tech Stack:** React • Node.js • Express.js • MongoDB • MySQL
+
+---
+
+### 🌍 [Carbon Footprint Classification](https://github.com/ASHISH-KUMAR-NAYAK26/Carbon-footprint-tracker)
+An end-to-end Machine Learning solution that predicts carbon emission categories using lifestyle and consumption patterns, enabling data-driven sustainability insights.
+
+**🏆 Highlights**
+* Random Forest Classification
+* Feature Engineering & Data Analysis
+* Carbon Emission Prediction & Interpretation
+
+**⚙️ Tech Stack:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib
+
+---
+
+## 🏆 Hackathons & Leadership
+
+*   🥇 **Team Lead** – Smart India Hackathon (SIH) 2025
+*   🌟 **Finalist** – AI Summit 2025 Project Showcase *(AgriChain)*
+*   📜 **Certified** – IIT Kanpur AIML Certification
+*   🤖 **Participant** – Google × Kaggle AI Agents Program
+*   🛡️ **PR & Outreach** – Ciphers Club *(Cybersecurity)*
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHISH-KUMAR-NAYAK26&show_icons=true&theme=tokyonight" alt="Ashish's GitHub stats" width="48%" />
+  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=ASHISH-KUMAR-NAYAK26&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+</div>
