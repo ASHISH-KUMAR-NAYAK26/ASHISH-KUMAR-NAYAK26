@@ -3,8 +3,6 @@
   <h3>B.Tech CSE Student | AI & Systems Enthusiast</h3>
   <p><i>"Translating core computer science theory into scalable, intelligent software."</i></p>
   
-  [![Status](https://img.shields.io/badge/Status-Seeking_Paid_Internships-success?style=for-the-badge)](#)
-  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-kumar-nayak-74b3a1320)
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/ASHISH-KUMAR-NAYAK26)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ashish.kumar.nayak2005@gmail.com)
@@ -114,10 +112,3 @@ An end-to-end Machine Learning solution that predicts carbon emission categories
 *   📜 **Certified** – IIT Kanpur AIML Certification
 *   🤖 **Participant** – Google × Kaggle AI Agents Program
 *   🛡️ **PR & Outreach** – Ciphers Club *(Cybersecurity)*
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHISH-KUMAR-NAYAK26&show_icons=true&theme=tokyonight" alt="Ashish's GitHub stats" width="48%" />
-  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=ASHISH-KUMAR-NAYAK26&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</div>
