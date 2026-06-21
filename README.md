@@ -12,13 +12,12 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student at Bennett University with a passion for building intelligent software systems that combine strong engineering foundations with real-world impact.
+I am a Computer Science student at Bennett University focused on building intelligent software systems that bridge strong engineering foundations with real-world impact. 
 
-My interests span Machine Learning, Computer Vision, Full-Stack Development, Cloud Technologies, and System Design. I enjoy working across the entire development lifecycle—from designing scalable backends and training machine learning models to integrating them into production-ready applications.
-
-Rather than focusing solely on frameworks, I actively strengthen my understanding of core Computer Science concepts including Data Structures & Algorithms, Operating Systems, Databases, and Distributed Systems. I enjoy solving challenging problems, optimizing system performance, and exploring how intelligent systems can be built at scale.
-
-Currently, I am building projects in AI, multi-agent systems, and predictive analytics while continuously expanding my knowledge of modern software engineering, scalable systems, and cloud technologies.
+**My Engineering Focus:**
+* **Full-Stack & AI Integration:** I design scalable backends, build component-driven UIs, and deploy machine learning models into production-ready SaaS applications.
+* **Core CS Fundamentals:** I actively apply principles from Operating Systems, Distributed Systems, and advanced mathematics to optimize performance and solve architectural challenges at scale. 
+* **Current Projects:** I am currently building platforms centered around multi-agent systems, predictive analytics, and AI-powered cloud infrastructure.
 
 ---
 
